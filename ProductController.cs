@@ -1,3 +1,5 @@
+//Khalid Dhaafi
+//please not if you want to add images or pdf files this will not work you will need to add if and else for update or edit method read the ReadMe file
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
